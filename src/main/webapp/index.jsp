@@ -7,5 +7,6 @@
   <h1> Latest revision </h1>  
  <h1> Hello DEVOPS </h1>
  <h1> Pelinn </h1>  
+ <h1> Kanar </h1>  
 </body>
 </html>
